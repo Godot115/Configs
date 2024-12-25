@@ -1,0 +1,5 @@
+name: customize rules
+desc: 自定义规则
+
+rules:
+- DOMAIN-SUFFIX,wechat.com,YouTube
